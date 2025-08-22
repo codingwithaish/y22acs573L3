@@ -1,2 +1,6 @@
 file3 created in remote repo
+<<<<<<< HEAD
 modified in remote repo
+=======
+modified on feature-branch
+>>>>>>> f43d2d9 (file3 modified in fb)
